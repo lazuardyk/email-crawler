@@ -1,5 +1,7 @@
 # email-crawler
 Crawling emails from Bing search engine
+<br><br>
+![program](email-crawl.png)
 
 ## Prerequisites
 - Python 3
@@ -9,3 +11,4 @@ Crawling emails from Bing search engine
 - Install python 3
 - Install fake_useragent & requests library, use pip:<br>```pip install fake_useragent```<br> ```pip install requests```
 - Run email-crawler.py
+- Emails are stored in results.txt
